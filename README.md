@@ -10,8 +10,8 @@
 ```  
 java -jar GiphyProject-1.0-SNAPSHOT.jar
 ```
-4. Для просмотра gif-изображений и выбора сравниваемой с USD валюты необходимо запустить Front-приложение, которое
-будет взаимодействовать с GiphyProject;
+4. Для просмотра gif-изображений и выбора сравниваемой с USD валюты необходимо запустить Front-приложение
+(https://github.com/RSVarfolomeev/FrontGiphyProject), которое будет взаимодействовать с GiphyProject;
 5. End-point, через который идет взаимодействие с Front-приложением:
 ```
 http://localhost:8080/getGifAndCurrency
