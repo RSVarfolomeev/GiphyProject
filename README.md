@@ -26,7 +26,7 @@ docker build -t giphy_project .
 ```
 Запуск контейнера:
 ```
-docker run -d -p 8080:8080 giphy_project
+docker run -d -p 8080:8080 --name=giphyproject giphy_project
 ```
 ---
 #### Используемый стек технологий:
